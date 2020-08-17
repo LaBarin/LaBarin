@@ -1,11 +1,11 @@
-Hola I'm LaBarin Crosby 👋
+Hello I'm LaBarin Crosby 👋
 
 - 🔭 I’m currently working on New Python Project
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Sequel
 - 👯 I’m looking to collaborate on Slack or Linkedin
 - 🤔 I’m looking for help with Building the Perfect Website
 - 💬 Ask me about My Techinal Training
-- 📫 How to reach me: LaBarin@Gmail.com Or Linkedin
+- 📫 How to reach me: LaBarin@Gmail.com, Linkedin-https://www.linkedin.com/in/labarin-crosby-98aa71110/ Twitter-@BLabarin
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I Love to Watch Fishing and Cooking Videos
--->
+
